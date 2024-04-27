@@ -7,9 +7,9 @@ comments: false
 ---
 
 Hello! I'm learning cybersecurity, adore to invest in crypto and losing money there 🥴
-Take part in CTF's and working on my future projects.
+Taking part in CTF's and working on my future projects.
  
-💡 My motto ➡️ Working hard, procrastinating and dreaming. 
+My motto ➡️ Working hard, procrastinating and dreaming. 
 
 I don’t know exactly what I’m gonna come up with, but I’m moving forward and becoming a better 🤔
 
