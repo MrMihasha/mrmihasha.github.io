@@ -1,18 +1,28 @@
 ---
-title: Colophon
+title: About me 
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hello! I'm learning cybersecurity, adore to invest in crypto and losing money there 🥴
+Take part in CTF's and working on my future projects.
+ 
+💡 My motto ➡️ Working hard, procrastinating and dreaming. 
 
-If you have a question about him or else, just send a letter to him.
+I don’t know exactly what I’m gonna come up with, but I’m moving forward and becoming a better 🤔
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+For you this site is my contacts and maybe some new information about my way.
+
+For me this site is my notes/backup of everything that I learned through the time. 
+
+Here will be my the most significant events and funny stories. But of course the main activity will be in my social networks. For certain events also will be some walkthroughs 🔥
+
+Cheers! 🥂
 
 **may u needs ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+- twitter.com/{{ site.author.twitter }}
