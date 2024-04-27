@@ -13,14 +13,16 @@ author:
   name: mihasha # author name
   bio: >- # tell to the world
     I'm learning cybersecurity, adore to invest in crypto and losing money there 🥴
+
     Take part in CTF's and working on my future projects.
+    
     My motto ➡️ Working hard, procrastinating and dreaming. 
   username: mihasha # general username
   github: MrMihasha # github username
   twitter: MrMihasha # twitter username
   facebook: facebook_username # facebook username
   email: your-email@email.com # email adress
-  avatar: /assets/img/avatar111.jpg # change with your own avatar
+  avatar: /assets/img/avatar111.png # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
